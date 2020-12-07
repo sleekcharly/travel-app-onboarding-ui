@@ -1,0 +1,12 @@
+{
+  "name": "travel_app_ui",
+  "displayName": "travel_app_ui",
+  "expo": {
+    "name": "travel_app_ui",
+    "slug": "travel_app_ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
