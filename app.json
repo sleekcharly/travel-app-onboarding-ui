@@ -4,9 +4,14 @@
   "expo": {
     "name": "travel_app_ui",
     "slug": "travel_app_ui",
+    "sdkVersion": "39.0.0",
     "version": "1.0.0",
+    "icon": "./app/assets/images/onboarding-1.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.gistoracle.travel_app_onboarding_ui"
+    }
   }
 }
